@@ -1,0 +1,13 @@
+* {
+  text-align: center;
+  color: white;
+}
+body,
+input,
+button {
+  background-color: rgb(31, 31, 31);
+}
+
+.button-container {
+  text-align: center;
+}
